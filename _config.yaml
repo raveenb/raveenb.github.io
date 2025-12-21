@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: Popper’s Knowledge Tensor
+description: An epistemological framework for Artificial General Intelligence.
+google_analytics: # Add your ID here if you want to track researchers finding your site
+kramdown:
+  math_engine: mathjax

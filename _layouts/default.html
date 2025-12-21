@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>{{ page.title }}</title>
+        <link
+            rel="stylesheet"
+            href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"
+        />
+        <!-- MathJax for Tensor Math -->
+        <script src="polyfill.io"></script>
+        <script id="MathJax-script" async src="cdn.jsdelivr.net"></script>
+    </head>
+    <body>
+        <section class="main-content">{{ content }}</section>
+    </body>
+</html>
