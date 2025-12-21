@@ -1,2 +1,3 @@
 # Raveen's Personal Blog
-I am migrating my existing content to here. please wait, thx!
+My musing on long running thoughts... just documenting them here
+[Poppers Falsification to AGI](./popper)
