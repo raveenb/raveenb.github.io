@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <h1>{{ site.author.name }}</h1>
+  <p class="bio">{{ site.author.bio }}</p>
+</section>
+
+{{ content }}
+
+{% if site.projects %}
+<section class="projects-section">
+  <h2>Projects</h2>
+  <div class="project-cards">
+    {% for project in site.projects %}
+    <a class="project-card" href="{{ project.url | relative_url }}">
+      <h3>{{ project.name }}</h3>
+      <p>{{ project.description }}</p>
+      {% if project.tag %}
+      <span class="tag">{{ project.tag }}</span>
+      {% endif %}
+    </a>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}

@@ -1,17 +1,47 @@
 ---
 layout: default
-title: Home
+title: Overview
 ---
 
-# Popper’s Knowledge Tensor (PKT)
-**A Neuro-Symbolic Framework for AGI**
+# Popper's Knowledge Tensor (PKT)
+**Toward Hard Falsification in Neuro-Symbolic AI**
 
-Current AI models rely primarily on **Masked Learning**—a purely inductive process of pattern recognition. While powerful, this "System 1" approach lacks the logical rigor and falsifiability required for true General Intelligence.
+Modern AI systems learn by induction — absorbing statistical patterns from massive datasets. They are powerful pattern matchers, but they cannot *reject* a hypothesis the way a scientist can. When a large language model hallucinates a plausible-sounding falsehood, there is no internal mechanism that says "this contradicts what I know to be true." The model has no capacity for **falsification**.
 
-The PKT framework proposes a hybrid architecture:
-1. **Inductive Pillars:** High-dimensional tensors built "upward" from raw data patterns.
-2. **Deductive Filters:** "Top-down" logical constraints that prune unstable or false inductive paths.
+PKT proposes a different kind of architecture: one where knowledge is not merely *accumulated* but actively **tested and pruned**. Inspired by Karl Popper's philosophy of science, the framework treats every learned representation as a *conjecture* — provisional until it survives deductive stress tests.
 
-Inspired by **Karl Popper’s Falsificationism** and **Hegel’s Episteme**, this model treats knowledge not as a static truth, but as a provisional, multidimensional structure that has survived rigorous logical "stress tests."
+---
 
-[Read the Core Theory](./theory) | [Explore the Math Modeling](./math) | [Falsification Log](./blog)
+## The Core Idea
+
+Most neuro-symbolic approaches (Logic Tensor Networks, DeepProbLog, NeurASP) integrate logic as a **soft constraint**: logical rules nudge the model toward consistency, penalizing violations through differentiable loss terms. The model is *encouraged* to be logical but never *required* to be.
+
+PKT takes a harder line. It proposes a **falsification operator** that *eliminates* representations violating deductive rules, rather than merely penalizing them. The distinction matters:
+
+| Approach | Mechanism | Failure Mode |
+|----------|-----------|-------------|
+| Soft constraint (existing) | Penalty term in loss function | Model can learn to "pay the penalty" and keep inconsistencies |
+| Hard falsification (PKT) | Projection operator zeros out violating entries | Inconsistent representations are structurally impossible |
+
+This is analogous to the difference between a tax on pollution (soft) and a physical filter that removes pollutants (hard).
+
+---
+
+## Roadmap
+
+This blog develops the PKT idea across six threads, each building toward a formal paper:
+
+1. **[Motivation](./motivation)** — Why pure induction isn't enough, and why hallucination is a symptom of a deeper architectural gap.
+2. **[Philosophy](./theory)** — The epistemological foundations: Popper's falsificationism, Hegel's dialectic, and the question of what knowledge *is*.
+3. **[Landscape](./landscape)** — What already exists in neuro-symbolic AI, and where PKT fits (and differs).
+4. **[Framework](./math)** — The formal definition: the Knowledge Tensor, the Falsification Operator, and a proposed loss function.
+5. **[Open Questions](./questions)** — The deep questions this work raises about the nature of knowledge, agency, and AI.
+6. **[Research Log](./blog)** — A Popperian falsification log: what I've conjectured, tested, and discarded.
+
+---
+
+## Status
+
+This is **active research in progress**. The framework is speculative — definitions are proposed rather than proven, and no experiments have been run yet. The blog is the thinking tool; the paper comes later.
+
+*What you're reading is the conjecture. The refutation is the work ahead.*

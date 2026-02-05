@@ -1,20 +1,37 @@
-theme: jekyll-theme-cayman
-title: Popper’s Knowledge Tensor
-description: An epistemological framework for AGI.
-show_downloads: false
-google_analytics:
+title: Raveen's Blog
+description: Musings on long running thoughts.
+permalink: pretty
 
-# Math Support for Tensors
+author:
+  name: Raveen Beemsingh
+  bio: Exploring ideas at the intersection of epistemology, AI, and software engineering.
+
+# Math Support
 kramdown:
   math_engine: mathjax
 
-# Navigation for easy access
+# Navigation
 navbar:
   - title: Home
-    url: /popper/index
-  - title: Theory
-    url: /popper/theory
-  - title: Math
-    url: /popper/math
+    url: /
+  - title: Overview
+    url: /popper/
+  - title: Motivation
+    url: /popper/motivation/
+  - title: Philosophy
+    url: /popper/theory/
+  - title: Landscape
+    url: /popper/landscape/
+  - title: Framework
+    url: /popper/math/
+  - title: Questions
+    url: /popper/questions/
   - title: Log
-    url: /popper/blog
+    url: /popper/blog/
+
+# Projects (shown on homepage)
+projects:
+  - name: "Popper's Knowledge Tensor"
+    description: "A neuro-symbolic framework exploring hard falsification as an alternative to soft constraint satisfaction — blending Popper's epistemology with tensor-based knowledge representation."
+    url: /popper/
+    tag: epistemology + AI
