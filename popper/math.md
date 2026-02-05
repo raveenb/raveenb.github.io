@@ -141,4 +141,14 @@ Proving (or disproving) this conjecture is the most important theoretical milest
 
 ---
 
+---
+
+## References
+
+- Bengio, Y., Léonard, N. & Courville, A. (2013). Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation. [arXiv:1308.3432](https://arxiv.org/abs/1308.3432)
+- Hitchcock, F.L. (1927). The Expression of a Tensor or a Polyadic as a Sum of Products. *Journal of Mathematics and Physics*, 6(1–4), 164–189.
+- Kolda, T.G. & Bader, B.W. (2009). Tensor Decompositions and Applications. *SIAM Review*, 51(3), 455–500.
+
+---
+
 *Next: [Open Questions](./questions) — the deeper philosophical puzzles this framework raises.*

@@ -95,4 +95,13 @@ The [Framework](./math) page defines the machinery. This page asks whether the m
 
 ---
 
+---
+
+## References
+
+- Popper, K. (1972). *Objective Knowledge: An Evolutionary Approach*. Oxford University Press.
+- Pathak, D. et al. (2017). Curiosity-driven Exploration by Self-Predictive Next Feature Learning. [arXiv:1705.05363](https://arxiv.org/abs/1705.05363)
+
+---
+
 *See also: [Research Log](./blog) — where these questions are tracked over time.*

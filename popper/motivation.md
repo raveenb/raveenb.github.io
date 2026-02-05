@@ -52,3 +52,13 @@ Current AI has System 1 in abundance. PKT proposes to add System 2.
 What's missing is a mechanism for **falsification** — a process that takes inductively learned representations and subjects them to deductive tests. Not a soft penalty that discourages inconsistency, but a hard operator that *eliminates* it.
 
 This is the gap that PKT aims to fill. The next pages develop the philosophical foundations for why falsification matters ([Philosophy](./theory)), survey what already exists in this space ([Landscape](./landscape)), and propose a formal framework for how it could work ([Framework](./math)).
+
+---
+
+## References
+
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
+- Kaplan, J. et al. (2020). Scaling Laws for Neural Language Models. [arXiv:2001.08361](https://arxiv.org/abs/2001.08361)
+- Villalobos, P. et al. (2022). Will We Run Out of Data? An Analysis of the Limits of Scaling Datasets in Machine Learning. [arXiv:2211.04325](https://arxiv.org/abs/2211.04325)
+- Shumailov, I. et al. (2023). The Curse of Recursion: Training on Generated Data Makes Models Forget. [arXiv:2305.17493](https://arxiv.org/abs/2305.17493)
+- Ji, Z. et al. (2022). Survey of Hallucination in Natural Language Generation. [arXiv:2202.03629](https://arxiv.org/abs/2202.03629)

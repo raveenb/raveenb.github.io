@@ -35,3 +35,7 @@ projects:
     description: "A neuro-symbolic framework exploring hard falsification as an alternative to soft constraint satisfaction — blending Popper's epistemology with tensor-based knowledge representation."
     url: /popper/
     tag: epistemology + AI
+  - name: "Rube Goldberg AI"
+    description: "Is it a silly way to learn a hard thing, or a hard way to learn a silly thing? An exploration of play, serendipity, and whether AI can learn to do things the hard way on purpose."
+    url: /rube-goldberg/
+    tag: AI + play

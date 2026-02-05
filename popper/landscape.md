@@ -91,4 +91,18 @@ Whether this is achievable is an open question. The [Framework](./math) page att
 
 ---
 
+---
+
+## References
+
+- Badreddine, S. et al. (2022). Logic Tensor Networks. [arXiv:2012.13635](https://arxiv.org/abs/2012.13635)
+- Manhaeve, R. et al. (2018). DeepProbLog: Neural Probabilistic Logic Programming. [arXiv:1805.10872](https://arxiv.org/abs/1805.10872)
+- Yang, Z. et al. (2020). NeurASP: Embracing Neural Networks into Answer Set Programming. [arXiv:2307.07700](https://arxiv.org/abs/2307.07700)
+- Bai, Y. et al. (2022). Constitutional AI: Harmlessness from AI Feedback. [arXiv:2212.08073](https://arxiv.org/abs/2212.08073)
+- Rocktäschel, T. & Riedel, S. (2017). End-to-End Differentiable Proving. [arXiv:1705.11040](https://arxiv.org/abs/1705.11040)
+- Cropper, A. & Muggleton, S. (2016). Learning Higher-Order Logic Programs through Abstraction and Invention. [arXiv:1704.08111](https://arxiv.org/abs/1704.08111)
+- Schmidhuber, J. (2010). Formal Theory of Creativity, Fun, and Intrinsic Motivation. *IEEE Transactions on Autonomous Mental Development*, 2(3), 230–247.
+
+---
+
 *Next: [Formal Framework](./math) — definitions, operators, and a proposed loss function.*

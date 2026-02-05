@@ -80,4 +80,14 @@ Together, these give PKT its philosophical depth. It is not enough to say "add l
 
 ---
 
+---
+
+## References
+
+- Popper, K. (1934/1959). *The Logic of Scientific Discovery*. Routledge.
+- Hegel, G.W.F. (1807). *Phenomenology of Spirit*. Trans. A.V. Miller, Oxford University Press, 1977.
+- Foucault, M. (1966). *The Order of Things: An Archaeology of the Human Sciences*. Trans. Routledge, 1970.
+
+---
+
 *Next: [The Neuro-Symbolic Landscape](./landscape) — what already exists in this space, and how PKT differs.*

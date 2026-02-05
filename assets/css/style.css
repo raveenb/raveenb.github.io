@@ -190,6 +190,15 @@ tr:nth-child(even) td {
   background: var(--bg-secondary);
 }
 
+/* ─── Images ─────────────────────────────────────────── */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 1.5rem 0;
+  border: 1px solid var(--border);
+}
+
 /* ─── Code Blocks ────────────────────────────────────── */
 code {
   font-family: var(--font-mono);
