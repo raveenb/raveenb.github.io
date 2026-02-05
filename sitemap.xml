@@ -1,0 +1,16 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for page in site.pages %}
+  {% unless page.url contains 'assets' or page.url contains 'sitemap' or page.url contains 'robots' or page.url contains 'llms' %}
+  {% if page.url contains '.html' or page.url == '/' or page.layout %}
+  <url>
+    <loc>https://raveenb.github.io{{ page.url | replace: 'index.html', '' }}</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+  </url>
+  {% endif %}
+  {% endunless %}
+  {% endfor %}
+</urlset>

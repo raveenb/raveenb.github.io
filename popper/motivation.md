@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Motivation
+description: "Why pure induction isn't enough for AI — hallucination as a structural symptom of missing deductive constraints, not just a data quality problem."
 ---
 
 # The Limits of Pure Induction

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Overview
+description: "Popper's Knowledge Tensor (PKT) — a neuro-symbolic framework proposing hard falsification as an alternative to soft constraint satisfaction in AI."
 ---
 
 # Popper's Knowledge Tensor (PKT)

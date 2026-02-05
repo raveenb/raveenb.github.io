@@ -1,0 +1,29 @@
+# Raveen's Blog
+
+> Personal research blog by Raveen Beemsingh exploring ideas at the intersection of epistemology, AI, and software engineering.
+
+This site contains two main projects:
+
+## Popper's Knowledge Tensor (PKT)
+
+A speculative neuro-symbolic framework proposing hard falsification (rejecting hypotheses that fail deductive tests) as an alternative to soft constraint satisfaction in AI. The core claim: existing neuro-symbolic systems nudge learning toward logic; PKT would reject hypotheses that fail deductive tests. This is active research — proposed, not proven.
+
+- [Overview](https://raveenb.github.io/popper/): Thesis statement and roadmap
+- [Motivation](https://raveenb.github.io/popper/motivation/): Why pure induction (self-supervised learning) is insufficient — hallucination as a structural symptom
+- [Philosophy](https://raveenb.github.io/popper/theory/): Popper's falsificationism, Hegel's dialectic, Foucault's episteme — treated as three distinct traditions
+- [Landscape](https://raveenb.github.io/popper/landscape/): Survey of Logic Tensor Networks, DeepProbLog, NeurASP, Constitutional AI, Neural Theorem Provers — and how PKT differs
+- [Framework](https://raveenb.github.io/popper/math/): Formal definitions — Knowledge Tensor, Falsification Operator, combined loss function, convergence conjecture (all speculative)
+- [Open Questions](https://raveenb.github.io/popper/questions/): Is knowledge universal or emergent? Does it require agency? Can AI develop knowledge autonomously?
+- [Research Log](https://raveenb.github.io/popper/blog/): Popperian falsification log — documents what was believed and later corrected
+
+Key technical terms: Knowledge Tensor (T), Falsification Operator (F), hard vs. soft constraints, alternating optimization, CP tensor decomposition.
+
+## Rube Goldberg AI
+
+An exploratory essay asking whether AI can or should engage in structured inefficiency — doing things the hard way for the learning and serendipity it produces.
+
+- [Essay](https://raveenb.github.io/rube-goldberg/): Argues that play and inefficiency are not bugs but features — in human cognition (dumbbells, serendipity), in biology (Darwin: evolution satisfices, never optimizes), and potentially in AI. References Sagan, Mallory, Schmidhuber's artificial curiosity, Pathak et al.'s curiosity-driven exploration.
+
+## About the Author
+
+Raveen Beemsingh — exploring epistemology, AI, and software engineering. The blog is a thinking tool; ideas are developed in public and documented honestly, including what turned out to be wrong.

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Framework
+description: "Formal definitions for PKT — the Knowledge Tensor, Falsification Operator, combined loss function, and convergence conjecture. Speculative but rigorous."
 ---
 
 # Formal Framework

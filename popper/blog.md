@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Log
+description: "PKT research log — a Popperian falsification diary documenting conjectures, corrections, and ideas that turned out to be wrong."
 ---
 
 # Research Log

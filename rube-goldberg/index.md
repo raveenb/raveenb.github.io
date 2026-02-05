@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Rube Goldberg AI
+description: "Is it a silly way to learn a hard thing? An exploration of play, structured inefficiency, and whether AI can learn to do things the hard way on purpose."
 ---
 
 # Rube Goldberg AI

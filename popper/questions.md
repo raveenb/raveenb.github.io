@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Questions
+description: "Open questions at the boundary of philosophy and AI — is knowledge universal or emergent? Does it require agency? Can AI develop knowledge autonomously?"
 ---
 
 # Open Questions

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Philosophy
+description: "The philosophical foundations of PKT — Popper's falsificationism, Hegel's dialectic, and Foucault's episteme as three distinct traditions informing the framework."
 ---
 
 # Philosophical Foundations

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Landscape
+description: "Survey of neuro-symbolic AI — Logic Tensor Networks, DeepProbLog, NeurASP, Constitutional AI, Neural Theorem Provers — and how PKT's hard falsification differs."
 ---
 
 # The Neuro-Symbolic Landscape
