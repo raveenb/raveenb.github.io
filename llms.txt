@@ -37,6 +37,9 @@ A personal essay about using AI to help manage a diverse 50+ species garden, and
 - [Passion Fruit](https://raveenb.github.io/ai-garden/passion-fruit/): The most dramatic arc — potash-triggered blooming, full scale infestation, surgical pruning, sap and recovery. Crisis and resilience.
 - [Plumeria](https://raveenb.github.io/ai-garden/plumeria/): Targeted phosphorus and potassium feeding produced flower clusters on every stem.
 - [Roses](https://raveenb.github.io/ai-garden/roses/): pH correction and Epsom salt produced larger, brighter blooms — and AI taught patience during natural rest cycles.
+- [Bleeding Heart Vine](https://raveenb.github.io/ai-garden/bleeding-heart/): Two identical plants, one survived relocation to brighter light, one didn't — same treatment, different outcomes.
+- [Wedelia](https://raveenb.github.io/ai-garden/wedelia/): Deliberate coverage strategy using urea for green walls, with a planned switch to NPK+DAP to trigger flowering.
+- [The Supporting Cast](https://raveenb.github.io/ai-garden/the-rest/): Palms, ficus, pothos, peace lily, and a dozen more — the plants that hold the garden together, plus the anthurium loss.
 
 ## About the Author
 

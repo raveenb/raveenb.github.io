@@ -130,8 +130,9 @@ Each of these pages tells the story of a specific plant in the garden — what w
 | [Passion Fruit](passion-fruit/) | Crisis, surgery, and resilience — the most dramatic arc | New tendrils reaching |
 | [Plumeria](plumeria/) | Clusters on every stem — finding the right formula | Dense flowering |
 | [Roses](roses/) | Larger and brighter — and learning to wait | Between flushes |
-
-*More species pages coming as the garden grows and the stories develop.*
+| [Bleeding Heart Vine](bleeding-heart/) | One lived, one didn't — same treatment, different outcomes | 1 surviving, 1 lost |
+| [Wedelia](wedelia/) | The wall of green — coverage first, flowers later | Cascading, flowers pending |
+| [The Supporting Cast](the-rest/) | Palms, ficus, pothos, and everyone else — plus the one we lost | 92% survival rate |
 
 ---
 
