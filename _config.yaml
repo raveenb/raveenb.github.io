@@ -39,3 +39,7 @@ projects:
     description: "Is it a silly way to learn a hard thing, or a hard way to learn a silly thing? An exploration of play, serendipity, and whether AI can learn to do things the hard way on purpose."
     url: /rube-goldberg/
     tag: AI + play
+  - name: "AI in the Garden"
+    description: "From plant diagnostics to micro-drones — what happens when AI moves from the digital world into the soil, weather, and living systems of a real garden."
+    url: /ai-garden/
+    tag: AI + physical world

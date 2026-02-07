@@ -2,7 +2,7 @@
 
 > Personal research blog by Raveen Beemsingh exploring ideas at the intersection of epistemology, AI, and software engineering.
 
-This site contains two main projects:
+This site contains three main projects:
 
 ## Popper's Knowledge Tensor (PKT)
 
@@ -23,6 +23,12 @@ Key technical terms: Knowledge Tensor (T), Falsification Operator (F), hard vs. 
 An exploratory essay asking whether AI can or should engage in structured inefficiency — doing things the hard way for the learning and serendipity it produces.
 
 - [Essay](https://raveenb.github.io/rube-goldberg/): Argues that play and inefficiency are not bugs but features — in human cognition (dumbbells, serendipity), in biology (Darwin: evolution satisfices, never optimizes), and potentially in AI. References Sagan, Mallory, Schmidhuber's artificial curiosity, Pathak et al.'s curiosity-driven exploration.
+
+## AI in the Garden
+
+A personal essay about using AI to help manage a diverse 50+ species garden, and a speculative exploration of what comes next — from AI as consultant (current) to AI as observer (sensors, drones) to AI as actor (intervention, diagnosis, garden redesign).
+
+- [Essay](https://raveenb.github.io/ai-garden/): Grounded in real experience using Claude for plant diagnostics, soil testing, and species management. Explores the progression from AI-as-text-consultant to AI-in-the-physical-world. Discusses irreversibility, feedback systems, and why the physical world is fundamentally harder than the digital one. Connects to PKT's questions about AI agency and autonomous knowledge development.
 
 ## About the Author
 
