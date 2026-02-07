@@ -112,7 +112,23 @@ Gardening with AI has taught me something about both gardening and AI:
 
 **About the future:** My kids see this instinctively. They don't draw a line between "digital" and "physical" the way my generation does. To them, a micro-drone checking a plant for pests is as natural as using a phone to look something up. The future of AI isn't just better chatbots. It's AI that touches the world — soil, water, leaves, roots.
 
-I'm going to keep exploring this.
+I'm going to keep exploring this. The garden journal below documents the specifics — plant by plant, problem by problem, season by season.
+
+---
+
+## Garden Journal
+
+Each of these pages tells the story of a specific plant in the garden — what went wrong, what AI diagnosed, what worked, and what I learned. They're grounded in real conversations, real treatments, and real results.
+
+| Plant | Story | Status |
+|-------|-------|--------|
+| [Bougainvillea](bougainvillea/) | The stress lover — less water, more flowers | Sparkling pink and white |
+| [Night Jasmine](night-jasmine/) | From quiet wallflower to explosive growth | Going bonkers |
+| [Hibiscus](hibiscus/) | The virus detective story — differential diagnosis | 9 blooming, 1 under investigation |
+| [Plumeria](plumeria/) | Clusters on every stem — finding the right formula | Dense flowering |
+| [Roses](roses/) | Larger and brighter — and learning to wait | Between flushes |
+
+*More species pages coming as the garden grows and the stories develop.*
 
 ---
 
