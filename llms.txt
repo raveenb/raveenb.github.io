@@ -29,9 +29,12 @@ An exploratory essay asking whether AI can or should engage in structured ineffi
 A personal essay about using AI to help manage a diverse 50+ species garden, and a speculative exploration of what comes next — from AI as consultant (current) to AI as observer (sensors, drones) to AI as actor (intervention, diagnosis, garden redesign).
 
 - [Essay](https://raveenb.github.io/ai-garden/): Grounded in real experience using Claude for plant diagnostics, soil testing, and species management. Explores the progression from AI-as-text-consultant to AI-in-the-physical-world. Discusses irreversibility, feedback systems, and why the physical world is fundamentally harder than the digital one. Connects to PKT's questions about AI agency and autonomous knowledge development.
+- [Ixora](https://raveenb.github.io/ai-garden/ixora/): The plant that started everything — ferrous sulfate fixed pH and provided iron, bugs disappeared without pesticide, triggering the garden-wide pH discovery.
 - [Bougainvillea](https://raveenb.github.io/ai-garden/bougainvillea/): How AI-guided stress treatment (less water, bloom-focused fertilizer, pH correction) transformed five plants into a wall of pink and white.
 - [Night Jasmine](https://raveenb.github.io/ai-garden/night-jasmine/): pH correction unlocked explosive growth in nitya malli — from quiet to copious flowers and fragrance.
 - [Hibiscus](https://raveenb.github.io/ai-garden/hibiscus/): AI differential diagnosis of a yellow hibiscus — ruling out nutrients, pests, and pH to identify a suspected virus. Nine plants bloom while one fights.
+- [Rangoon Creeper](https://raveenb.github.io/ai-garden/rangoon-creeper/): Three layered problems — zinc deficiency, alkaline pH lockout, and possible scale crawlers — diagnosed iteratively as new information emerged.
+- [Passion Fruit](https://raveenb.github.io/ai-garden/passion-fruit/): The most dramatic arc — potash-triggered blooming, full scale infestation, surgical pruning, sap and recovery. Crisis and resilience.
 - [Plumeria](https://raveenb.github.io/ai-garden/plumeria/): Targeted phosphorus and potassium feeding produced flower clusters on every stem.
 - [Roses](https://raveenb.github.io/ai-garden/roses/): pH correction and Epsom salt produced larger, brighter blooms — and AI taught patience during natural rest cycles.
 

@@ -122,9 +122,12 @@ Each of these pages tells the story of a specific plant in the garden — what w
 
 | Plant | Story | Status |
 |-------|-------|--------|
+| [Ixora](ixora/) | The plant that started everything — pH discovery and pest-free recovery | Thriving, bugs gone |
 | [Bougainvillea](bougainvillea/) | The stress lover — less water, more flowers | Sparkling pink and white |
 | [Night Jasmine](night-jasmine/) | From quiet wallflower to explosive growth | Going bonkers |
 | [Hibiscus](hibiscus/) | The virus detective story — differential diagnosis | 9 blooming, 1 under investigation |
+| [Rangoon Creeper](rangoon-creeper/) | The zinc mystery — three problems stacked on each other | Recovering, large new leaves |
+| [Passion Fruit](passion-fruit/) | Crisis, surgery, and resilience — the most dramatic arc | New tendrils reaching |
 | [Plumeria](plumeria/) | Clusters on every stem — finding the right formula | Dense flowering |
 | [Roses](roses/) | Larger and brighter — and learning to wait | Between flushes |
 
