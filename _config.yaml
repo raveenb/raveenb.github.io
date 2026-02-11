@@ -43,3 +43,11 @@ projects:
     description: "From plant diagnostics to micro-drones — what happens when AI moves from the digital world into the soil, weather, and living systems of a real garden."
     url: /ai-garden/
     tag: AI + physical world
+  - name: "All Security Is Theater"
+    description: "Security is a feeling, not a state — and AI is about to stress-test both sides. On locks, gas cutters, and the symmetric arms race in cybersecurity."
+    url: /ai-security/
+    tag: AI + security
+  - name: "Two Ways of Knowing"
+    description: "Rationalism only tells half the story. What happens when your formal epistemology project and your rooftop garden start arguing with each other."
+    url: /ways-of-knowing/
+    tag: epistemology + intuition

@@ -2,7 +2,7 @@
 
 > Personal research blog by Raveen Beemsingh exploring ideas at the intersection of epistemology, AI, and software engineering.
 
-This site contains three main projects:
+This site contains five main projects:
 
 ## Popper's Knowledge Tensor (PKT)
 
@@ -40,6 +40,18 @@ A personal essay about using AI to help manage a diverse 50+ species garden, and
 - [Bleeding Heart Vine](https://raveenb.github.io/ai-garden/bleeding-heart/): Two identical plants, one survived relocation to brighter light, one didn't — same treatment, different outcomes.
 - [Wedelia](https://raveenb.github.io/ai-garden/wedelia/): Deliberate coverage strategy using urea for green walls, with a planned switch to NPK+DAP to trigger flowering.
 - [The Supporting Cast](https://raveenb.github.io/ai-garden/the-rest/): Palms, ficus, pothos, peace lily, and a dozen more — the plants that hold the garden together, plus the anthurium loss.
+
+## All Security Is Theater
+
+An exploratory essay on AI and cybersecurity. Argues that all security is a feeling, not a state — a temporary gap between what the defender has built and what the attacker hasn't yet figured out. AI is symmetric: the same capabilities power both offense and defense, creating an arms race at machine speed.
+
+- [Essay](https://raveenb.github.io/ai-security/): Covers security as theater, obscurity as foundation, the symmetric AI arms race, new exploit classes, and evolving security postures. Connects the "good guy with a gun" framing to the cyber domain.
+
+## Two Ways of Knowing
+
+A response essay to Dan Shipper's argument that rationalism only tells half the story. Connects Shipper's thesis about intuition to three ongoing projects: PKT (rationalist), AI in the Garden (intuitive), and Rube Goldberg AI (play). Argues that AI is better at intuitive tasks than rational ones, and that the best architecture is both modes working together.
+
+- [Essay](https://raveenb.github.io/ways-of-knowing/): Bridges formal epistemology (Popper) with embodied experience (gardening) to argue that intuition generates hypotheses and rationalism tests them. References Dan Shipper, Karl Popper, Darwin, and Howard Gardner.
 
 ## About the Author
 
